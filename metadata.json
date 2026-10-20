@@ -1,0 +1,6 @@
+{
+  "name": "PRISMA AI - Platform Registrasi, Integrasi, dan Sistem Monitoring AI Nasional",
+  "description": "Platform Registrasi, Integrasi, dan Sistem Monitoring AI Nasional untuk kurasi, evaluasi, direktori, dan monitoring use case AI di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
